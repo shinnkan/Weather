@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="forecast">天気予報</string>
+    <string name="life_index">ライフインデックス</string>
+    <string name="cold">寒さ</string>
+    <string name="dressing">ドレッシング</string>
+    <string name="uv">リアルタイムUV</string>
+    <string name="car_wash">洗車</string>
+</resources>
